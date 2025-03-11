@@ -1,0 +1,7 @@
+F:\Computing VS Projects\TaxCodeProj\Tax Code Program\Tax Code Program\obj\Debug\Tax Code Program.csproj.AssemblyReference.cache
+F:\Computing VS Projects\TaxCodeProj\Tax Code Program\Tax Code Program\obj\Debug\Tax Code Program.csproj.CoreCompileInputs.cache
+F:\Computing VS Projects\TaxCodeProj\Tax Code Program\Tax Code Program\bin\Debug\Tax Code Program.exe.config
+F:\Computing VS Projects\TaxCodeProj\Tax Code Program\Tax Code Program\bin\Debug\Tax Code Program.exe
+F:\Computing VS Projects\TaxCodeProj\Tax Code Program\Tax Code Program\bin\Debug\Tax Code Program.pdb
+F:\Computing VS Projects\TaxCodeProj\Tax Code Program\Tax Code Program\obj\Debug\Tax Code Program.exe
+F:\Computing VS Projects\TaxCodeProj\Tax Code Program\Tax Code Program\obj\Debug\Tax Code Program.pdb
